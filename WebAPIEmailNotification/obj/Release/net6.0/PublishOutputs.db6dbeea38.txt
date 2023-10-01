@@ -1,0 +1,7 @@
+D:\Maifuz\Practise\Dot.net\Email\EmailNotification\WebAPIEmailNotification\WebAPIEmailNotification\obj\Release\net6.0\PubTmp\Out\WebAPIEmailNotification.exe
+D:\Maifuz\Practise\Dot.net\Email\EmailNotification\WebAPIEmailNotification\WebAPIEmailNotification\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Maifuz\Practise\Dot.net\Email\EmailNotification\WebAPIEmailNotification\WebAPIEmailNotification\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Maifuz\Practise\Dot.net\Email\EmailNotification\WebAPIEmailNotification\WebAPIEmailNotification\obj\Release\net6.0\PubTmp\Out\WebAPIEmailNotification.dll
+D:\Maifuz\Practise\Dot.net\Email\EmailNotification\WebAPIEmailNotification\WebAPIEmailNotification\obj\Release\net6.0\PubTmp\Out\WebAPIEmailNotification.deps.json
+D:\Maifuz\Practise\Dot.net\Email\EmailNotification\WebAPIEmailNotification\WebAPIEmailNotification\obj\Release\net6.0\PubTmp\Out\WebAPIEmailNotification.runtimeconfig.json
+D:\Maifuz\Practise\Dot.net\Email\EmailNotification\WebAPIEmailNotification\WebAPIEmailNotification\obj\Release\net6.0\PubTmp\Out\WebAPIEmailNotification.pdb
